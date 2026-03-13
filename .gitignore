@@ -1,0 +1,11 @@
+data/
+project_env/
+.DS_Store
+data/
+project_env/
+.DS_Store
+data/
+project_env/
+*.pth
+*.json
+.DS_Store

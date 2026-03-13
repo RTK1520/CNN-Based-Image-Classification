@@ -1,0 +1,5 @@
+device=mps
+torch=2.8.0
+epochs=5
+batch_size=128
+total_time_s=28.43
